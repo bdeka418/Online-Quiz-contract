@@ -32,7 +32,7 @@ The **OnlineQuiz** smart contract provides a decentralized platform for hosting 
 
 Contract Address: 0xf3b7d6910639dc5d9493451d42c6880e8354521f
 
-![image](https://github.com/user-attachments/assets/f7715179-ae1b-42c9-b6c3-a5d415fa12e5)
+![image](https://github.com/user-attachments/assets/eb53d4b4-ea88-473d-9d60-0af2bbdeb59c)
 
 
 ## Future Scope
