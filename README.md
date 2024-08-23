@@ -1,11 +1,13 @@
 
 # OnlineQuiz Smart Contract
 
+![image](https://github.com/user-attachments/assets/65680f79-4442-4988-a593-ff19b506b8a6)
+
+
 ## Vision
 The **OnlineQuiz** smart contract provides a decentralized platform for hosting quizzes on the Ethereum blockchain. It allows users to participate in a quiz by submitting answers, automatically scores their responses, and ensures that each user can only participate once. The contract is designed to be simple, scalable, and secure, enabling easy expansion for additional questions and functionalities.
 
 ## Flowchart
-Below is a high-level flowchart of the OnlineQuiz smart contract:
 
 1. **Initialization**
    - Contract deployed.
@@ -29,6 +31,8 @@ Below is a high-level flowchart of the OnlineQuiz smart contract:
 ## Contract Address
 
 Contract Address: 0xf3b7d6910639dc5d9493451d42c6880e8354521f
+
+![image](https://github.com/user-attachments/assets/f7715179-ae1b-42c9-b6c3-a5d415fa12e5)
 
 
 ## Future Scope
